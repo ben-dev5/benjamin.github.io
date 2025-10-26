@@ -1,0 +1,8 @@
+{
+  "name": "Projet Symfony site voyage",
+  "url": "Symfony.pdf",
+  "description": "Site d'affichage de voyage réalisés avec détails de chaque voyage",
+  "thumbnail": "/projects/feedbackjar.png",
+  "status": "WIP",
+  "opensource": true
+}

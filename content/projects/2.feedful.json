@@ -1,0 +1,7 @@
+{
+  "name": "Site Nuxt",
+  "url": "Nuxt.pdf",
+  "description": "Site de recherche d'emploi avec authentification JWT",
+  "thumbnail": "/projects/feedful.png",
+  "status": "Active"
+}

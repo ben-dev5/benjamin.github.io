@@ -1,0 +1,8 @@
+{
+  "name": "Appli mobile ",
+  "url": "React.pdf",
+  "description": "Application affichant avec recherche les informations de films depuis une API",
+  "thumbnail": "/projects/hawa.png",
+  "status": "Active",
+  "opensource": true
+}
