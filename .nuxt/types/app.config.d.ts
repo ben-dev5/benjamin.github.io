@@ -5,7 +5,7 @@ import cfg0 from "/home/benjamin/benjamin.github.io/app.config"
 
 declare const inlineConfig = {
   "nuxt": {
-    "buildId": "dev"
+    "buildId": "14600ea7-d58e-436f-984b-45479e363bee"
   },
   "ui": {
     "primary": "green",

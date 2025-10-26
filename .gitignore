@@ -1,0 +1,30 @@
+# --- Dossiers Node et build ---
+node_modules/
+.nuxt/
+.output/
+dist/
+.cache/
+
+# --- Fichiers système / IDE ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# --- Déploiement temporaire ---
+.env
+.env.*
+!.env.example
+
+# --- Lock files (selon ton gestionnaire de paquets) ---
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# --- GitHub Pages cache (si tu utilises gh-pages) ---
+gh-pages/
+
+# --- Tests / outils ---
+coverage/
+.nyc_output/
