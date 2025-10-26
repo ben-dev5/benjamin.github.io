@@ -1,0 +1,1 @@
+export { default } from "/home/benjamin/benjamin.github.io/node_modules/@nuxt/image/dist/runtime/components/nuxt-img"
